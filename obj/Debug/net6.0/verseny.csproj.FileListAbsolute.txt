@@ -1,0 +1,15 @@
+V:\verseny\bin\Debug\net6.0\verseny.exe
+V:\verseny\bin\Debug\net6.0\verseny.deps.json
+V:\verseny\bin\Debug\net6.0\verseny.runtimeconfig.json
+V:\verseny\bin\Debug\net6.0\verseny.dll
+V:\verseny\bin\Debug\net6.0\verseny.pdb
+V:\verseny\obj\Debug\net6.0\verseny.csproj.AssemblyReference.cache
+V:\verseny\obj\Debug\net6.0\verseny.GeneratedMSBuildEditorConfig.editorconfig
+V:\verseny\obj\Debug\net6.0\verseny.AssemblyInfoInputs.cache
+V:\verseny\obj\Debug\net6.0\verseny.AssemblyInfo.cs
+V:\verseny\obj\Debug\net6.0\verseny.csproj.CoreCompileInputs.cache
+V:\verseny\obj\Debug\net6.0\verseny.dll
+V:\verseny\obj\Debug\net6.0\refint\verseny.dll
+V:\verseny\obj\Debug\net6.0\verseny.pdb
+V:\verseny\obj\Debug\net6.0\verseny.genruntimeconfig.cache
+V:\verseny\obj\Debug\net6.0\ref\verseny.dll
